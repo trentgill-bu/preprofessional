@@ -2,5 +2,6 @@
   - [Overview](basics/overview.md)
 - Programs
   - [Athletic Therapy](programs/athletic-therapy-um.md)
+  - [Chiropractic Studies](programs/chiro-studies-cmcc.md)
 - **Project Documentation**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
