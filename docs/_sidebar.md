@@ -1,9 +1,6 @@
 - Basics
   - [Overview](basics/overview.md)
-- Intermediate
-  - [Topic 1](intermediate/topics-1.md)
-  - [Topic 2](intermediate/topics-2.md)
-  - [Topic 3](intermediate/topics-3.md)
-  - [Topic 4](intermediate/topics-4.md)
+- Programs
+  - [Athletic Therapy](programs/athletic-therapy-um.md)
 - **Project Documentation**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
